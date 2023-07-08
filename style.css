@@ -1,0 +1,27 @@
+body {
+  background: radial-gradient(black, purple);
+}
+
+div {
+  margin: 20px;
+  text-align: center;
+  color: white;
+  font-size: 1.5rem;
+}
+
+button {
+  margin: 20px;
+  font-size: 1.5rem;
+}
+
+.paper {
+  border: 2px solid black;
+}
+
+.rock {
+  background-color: red;
+}
+
+.scissor {
+  background-color: yellow;
+}
